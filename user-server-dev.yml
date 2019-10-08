@@ -10,4 +10,4 @@ eureka:
   client:
     service-url:
       defaultZone: http://localhost:8762/eureka/
-env: eee2
+env: eee2323232323
